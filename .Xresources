@@ -1,0 +1,44 @@
+URxvt.geometry: 110x55
+URxvt.internalBorder: 28
+URxvt.scrollBar: false
+URxvt.urgentOnBell: false
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: true
+URxvt.font: xft:spectrum berry:style=Sans:pixelsize=12
+
+! special
+*.foreground:   #ffe1ec
+*.background:   #0b0b0b
+*.cursorColor:  #ffe1ec
+
+! black
+*.color0:       #0f0e0e
+*.color8:       #484848
+
+! red
+*.color1:       #e61010
+*.color9:       #ffffff
+
+! green
+*.color2:       #63f67f
+*.color10:      #fbc5c5
+
+! yellow
+*.color3:       #3bdcff
+*.color11:      #ffee48
+
+! blue
+*.color4:       #3da2ff
+*.color12:      #ffffff
+
+! magenta
+*.color5:       #e14189
+*.color13:      #ce4993
+
+! cyan
+*.color6:       #00f9ff
+*.color14:      #ffffff
+
+! white
+*.color7:       #fffcdc
+*.color15:      #f9c5c5

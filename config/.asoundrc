@@ -1,0 +1,3 @@
+defaults.pcm.!card HDMI
+defaults.pcm.!device 9
+defaults.pcm.!ctl HDMI
